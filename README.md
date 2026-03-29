@@ -118,7 +118,7 @@ operations_project/
 ├── operations_analysis.py      # Main analysis script
 ├── Sample - Superstore.csv     # Dataset
 ├── summary_report.csv          # Generated output
-├── graph.png                  # Visualization output
+├── output.pdf                  # output
 └── README.md                  # Documentation
 ```
 
@@ -132,7 +132,7 @@ The project includes a bar chart visualization to represent sales distribution a
 
 
 ```
-![Sales by Region](graph.png)
+
 ```
 
 This visualization helps in quickly identifying high-performing regions and comparing business performance.
